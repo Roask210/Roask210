@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roask210
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Pythin
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
